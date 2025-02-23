@@ -1,7 +1,5 @@
-console.log('Hello world')
-
-
-let firstName = 'ivan'
-firstName = 'Pipa'
-
-console.log('firstName');
+const firstName = 'Mikhail'
+const secondName = 'Buzin'
+let age = '44'
+let city = 'Alushta'
+let hobby = 'travel'
